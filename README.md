@@ -40,5 +40,5 @@ This project demonstrates a serverless architecture for a Resume API using AWS L
 
 **API Endpoint**:
 ```
-https://u7fdthk4r6.execute-api.eu-north-1.amazonaws.com/dev/
+https://iqnycpfac4.execute-api.eu-north-1.amazonaws.com/dev/
 ```
