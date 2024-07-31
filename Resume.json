@@ -2,14 +2,14 @@
     "id": {"S": "1"},
     "basics": {
         "M": {
-            "name": {"S": "Meghan Maina"},
+            "name": {"S": "Samuel Wanjuri"},
             "label": {"S": "Cloud Engineer"},
             "image": {"S": ""},
-            "email": {"S": "mainameg@gmail.com"},
+            "email": {"S": "wanjurisamuel@gmail.com"},
             "phone": {"S": "(912) 555-4321"},
-            "url": {"S": "https://mainameg.com"},
+            "url": {"S": "https://my-portfolio-g8r8.onrender.com"},
            "summary": {
-           "S": "I am a Cloud Engineer with a passion for technology and a desire to learn. I am a self-motivated individual who is always looking for ways to improve my skills and knowledge. I have experience working with cloud technologies such as AWS and Terraform. I am also proficient in programming languages such as Python, C++, and JavaScript. I am a team player who enjoys working with others to achieve common goals. I am looking for an opportunity to work with a dynamic team where I can contribute my skills and knowledge to help the organization achieve its objectives."},
+           "S": "I am a software developer with a passion for technology and a continuous drive to learn. Self-motivated and always seeking to enhance my skills, I am proficient in programming languages such as Python, C++, and JavaScript. As a team player, I thrive in collaborative environments and enjoy working with others to achieve common goals. I am eager to join a dynamic team where I can leverage my skills and knowledge to help the organization reach its objectives."},
             "location": {
                 "M": {
                     "address": {"S": "2712 Broadway St"},
@@ -24,8 +24,8 @@
                     {
                         "M": {
                             "network": {"S": "Linkedin"},
-                            "username": {"S": "Meghan Maina"},
-                            "url": {"S": "https://linkedin.com/meghan"}
+                            "username": {"S": "Samuel Wanjuri"},
+                            "url": {"S": "https://www.linkedin.com/in/samuel-wanjuri"}
                         }
                     }
                 ]
